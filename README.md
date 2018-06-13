@@ -1,4 +1,4 @@
-# Zenow Front End
+# Zizbit Front End
 
 Template cloned from https://github.com/erikras/react-redux-universal-hot-example
 
